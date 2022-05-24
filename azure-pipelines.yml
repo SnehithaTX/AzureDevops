@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  Snehitha
+  SnehithaTX
 
 steps:
 - script: echo Hello, world!
