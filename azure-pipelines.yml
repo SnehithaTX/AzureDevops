@@ -20,6 +20,6 @@ steps:
 - task: UiPathRunJob@2
   inputs:
     orchestratorConnection: 'Connection_Integration'
-    processName: 'Azure_Integration'
+    processName: 'AzureDevops'
     folderName: 'Test'
     user: 'txhyd_lap_147\snehitha muthulur'
